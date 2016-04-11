@@ -283,6 +283,7 @@
 				B6E812FD1C925B70002C2E4D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
